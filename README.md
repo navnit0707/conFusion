@@ -1,4 +1,4 @@
-# conFusion-bootstrap-site
+# bootstrap-site
 
 ## Introduction
 
