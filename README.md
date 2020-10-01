@@ -19,17 +19,15 @@
 
 ## Installation
 
-1. Clone the repo in your system.
+1. Clone the repository using command:
 
-`git clone https://github.com/thedeveloperhere/conFusion.git`
+  `git clone https://github.com/thedeveloperhere/conFusion.git`
 
 2. Move to the directory of folder and use the command to install all the node modules required by the ptoject.
 
-`npm i`
+  `npm i`
 
-3. Use the command to run project.
-
-`npm start`
+3. To run the project use command: `npm start`
 
 ## Screenshots
 
